@@ -1,0 +1,6 @@
+Ten sinh vien: Tuan Kiet
+Gioi tinh: Nam
+Que quan: Tien Giang
+Ngay sinh: 19/09/2003
+So lan kiem tra: 4
+Diem trung binh: 4.46
